@@ -1,4 +1,4 @@
-package com.simon.FactoryPattern;
+package com.DesignPattern.FactoryPattern;
 
 public class Client {
     public static void main(String[] args) {

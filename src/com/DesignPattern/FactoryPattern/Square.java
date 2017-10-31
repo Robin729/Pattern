@@ -1,4 +1,4 @@
-package com.simon.FactoryPattern;
+package com.DesignPattern.FactoryPattern;
 
 public class Square implements Shape {
     @Override
